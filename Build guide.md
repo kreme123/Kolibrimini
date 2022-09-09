@@ -59,5 +59,6 @@ Place 10 x 6mm screws from bottom of backplate. Then add 3mm brass inserts.
 Time to assemble
 <a href="https://imgur.com/gEtkeDp"><img src="https://i.imgur.com/gEtkeDp.jpg" title="source: imgur.com" /></a>
 <a href="https://imgur.com/Vp9g273"><img src="https://i.imgur.com/Vp9g273.jpg" title="source: imgur.com" /></a>
+<a href="https://imgur.com/eu9mu90"><img src="https://i.imgur.com/eu9mu90.jpg" title="source: imgur.com" /></a>
 <a href="https://imgur.com/zcP5Mh0"><img src="https://i.imgur.com/zcP5Mh0.jpg" title="source: imgur.com" /></a>
 <a href="https://imgur.com/rErGkdw"><img src="https://i.imgur.com/rErGkdw.jpg" title="source: imgur.com" /></a>
