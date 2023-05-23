@@ -12,3 +12,5 @@ Kolibrimini is 40% Alice-style keyboard with arrow cluster
 <a href="https://imgur.com/mCCqhqe"><img src="https://i.imgur.com/mCCqhqe.jpg" title="source: imgur.com" /></a>
 
 [Soundtest](https://www.youtube.com/watch?v=7RpJeCfO46M) 
+
+[![](https://raw.githubusercontent.com/aha999/DonateButtons/master/Paypal.png)](https://www.paypal.com/donate/?hosted_button_id=BAEE2KMJAVYBW)
